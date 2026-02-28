@@ -1,0 +1,5 @@
+module github.com/murtaza64/tree-sitter-groovy
+
+go 1.22
+
+require github.com/tree-sitter/go-tree-sitter v0.24.0
